@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.homeright{
+    color: white;
+    padding: 5px;
+}
+.menu a{
+    text-decoration: none;
+}
+a.prthome{
+    font-family: pacifico;
+    margin-left: 100px;
+    margin-right: 625px;
+    font-size: 30px;
+    color: white;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+span{
+    color: red;
+}
+a.hover{
+    color: crimson;
+} 
+header{
+    background-image: url(/CSS/bannernew.jpg);
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    color: blue;
+}
+section{
+    margin-left: 25px;
+    margin-left: 100px;
+    margin-top: 165px;
+}
+.home-content{
+    color: white;
+}
+button, .web{
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 2px;
+    border-radius: 5%;
+    margin: 10px;
+}
+.hello{
+    font-size: 30px;
+    font-family: "ubuntu", sans-serif;
+    font-weight: bold;
+}
+h2{
+    padding-left: 500px; 
+    color: black;
+}
+h3{
+    padding-left: 500px;
+    height: 50vh;
+    background-color: black;
+    color: white;
+}
