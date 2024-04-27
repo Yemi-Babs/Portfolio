@@ -18,7 +18,7 @@ a.prthome{
     margin-left: 100px;
     margin-right: 625px;
     font-size: 30px;
-    color: white;
+    color: blue;
     font-weight: 500;
     transition: all 0.3s ease;
 }
@@ -39,7 +39,7 @@ header{
 section{
     margin-left: 25px;
     margin-left: 100px;
-    margin-top: 165px;
+    margin-top: 50px;
 }
 .home-content{
     color: white;
@@ -67,4 +67,14 @@ h3{
     height: 50vh;
     background-color: black;
     color: white;
+}
+h3{
+    padding-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.center{
+    display: flex;
+    justify-content: center;
 }
