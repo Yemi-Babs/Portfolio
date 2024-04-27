@@ -29,7 +29,7 @@ a.hover{
     color: crimson;
 } 
 header{
-    background-image: url(/bannernew.jpg);
+    background-image: url(bannernew.jpg);
     height: 100vh;
     min-height: 500px;
     background-size: cover;
